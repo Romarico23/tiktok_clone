@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBvMdWH5KQ86pnx9qJw-0mgwWAgQAetnyY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>905322979615</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.tiktokCloneApp</string>
+	<key>PROJECT_ID</key>
+	<string>tiktok-clone-app-1b431</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tiktok-clone-app-1b431.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:905322979615:ios:0aaf2017e6b2a1f268d02a</string>
+</dict>
+</plist>
